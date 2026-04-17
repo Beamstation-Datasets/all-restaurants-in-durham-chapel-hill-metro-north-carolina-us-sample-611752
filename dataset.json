@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant dataset spanning the Durham-Chapel Hill (Metro), North Carolina metropolitan area including Durham and Chapel Hill. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Durham-Chapel Hill (Metro), North Carolina, US",
+  "export_job_id": "df205844-0427-4fd3-a6cd-f8fdf7c24f8c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 611752,
+  "location_name": "Durham-Chapel Hill, NC",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-durham-chapel-hill-metro-north-carolina-us-sample-611752",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/611752/beamstation_611752_restaurants-us-durhamchapelhillnc_SAMPLE_DIST.csv",
+  "sample_pct": 9.95,
+  "sample_records": 116,
+  "sample_sha256": "7acc3e1a3b92e52516ef5808a694fc5c3892f52b13f5dadaffaff4f62be96044",
+  "sample_size_bytes": 460643,
+  "total_records": 1166,
+  "updated_at": "2026-04-14T18:22:38.092577+00:00"
+}
