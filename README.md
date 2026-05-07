@@ -1,6 +1,6 @@
 # All Restaurants in Durham-Chapel Hill (Metro), North Carolina, US
 
-> Free BeamStation sample export with 124 rows and masked direct-contact fields.
+> Free BeamStation sample export with 144 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `611752` |
 | Location | Durham-Chapel Hill, NC |
 | Category | Restaurants |
-| Full dataset size | 1,242 records |
-| Free sample size | 124 records (9.98%) |
-| Last export | 2026-04-28T21:58:03.001412+00:00 |
+| Full dataset size | 1,447 records |
+| Free sample size | 144 records (9.95%) |
+| Last export | 2026-05-07T18:01:26.641675+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-durham-chapel-hill-metro-north-carolina-us-sample-611752/releases/download/sample-latest/beamstation_611752_restaurants-us-durhamchapelhillnc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
