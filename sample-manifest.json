@@ -1,12 +1,12 @@
 {
-  "export_job_id": "888b9147-23e3-409c-9ba5-7dff5939d928",
+  "export_job_id": "82d0941c-43c8-4bda-add7-138da425a9e5",
   "id_short": 611752,
-  "published_at": "2026-04-29T07:47:56Z",
+  "published_at": "2026-05-07T19:13:51Z",
   "repo_name": "all-restaurants-in-durham-chapel-hill-metro-north-carolina-us-sample-611752",
   "sample_asset_name": "beamstation_611752_restaurants-us-durhamchapelhillnc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/611752/beamstation_611752_restaurants-us-durhamchapelhillnc_SAMPLE_DIST.csv",
-  "sample_records": 124,
-  "sample_sha256": "7f4ced02167ab388ea0268d7f2a5983c51d984f80dbc3fb06b710198e0011eee",
-  "sample_size_bytes": 447471,
-  "total_records": 1242
+  "sample_records": 144,
+  "sample_sha256": "9dd837735bbf508d6078062e6bc1194427720c1e080f5757b075f935734d8c09",
+  "sample_size_bytes": 545670,
+  "total_records": 1447
 }
